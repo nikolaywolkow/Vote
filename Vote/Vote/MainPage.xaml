@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Vote.MainPage">
+
+    <StackLayout Orientation="Vertical">
+        
+        <Image HeightRequest="130" x:Name="logo"></Image>
+        <Label x:Name="total" Text="Всего: " HorizontalTextAlignment="Center" TextColor="Black" FontSize="25"/>
+
+        <ScrollView Orientation="Vertical" Grid.Row="0" >
+            <StackLayout x:Name="stacker" VerticalOptions="Start" Padding="0" Spacing="0" Margin="0">
+
+                <Grid x:Name="candidats" Padding="7" VerticalOptions="StartAndExpand" RowSpacing="0" IsClippedToBounds="False" InputTransparent="False" CompressedLayout.IsHeadless="False" AutomationProperties.IsInAccessibleTree="False" HeightRequest="1000">
+                    <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="3*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                </Grid>
+            </StackLayout>
+        </ScrollView>
+    
+
+    </StackLayout>
+
+</ContentPage>

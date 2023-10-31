@@ -1,0 +1,15 @@
+C:\Users\Nikolay\source\repos\Vote\Vote\Vote\bin\Debug\netstandard2.0\Vote.deps.json
+C:\Users\Nikolay\source\repos\Vote\Vote\Vote\bin\Debug\netstandard2.0\Vote.dll
+C:\Users\Nikolay\source\repos\Vote\Vote\Vote\bin\Debug\netstandard2.0\ref\Vote.dll
+C:\Users\Nikolay\source\repos\Vote\Vote\Vote\bin\Debug\netstandard2.0\Vote.pdb
+C:\Users\Nikolay\source\repos\Vote\Vote\Vote\obj\Debug\netstandard2.0\Vote.csproj.AssemblyReference.cache
+C:\Users\Nikolay\source\repos\Vote\Vote\Vote\obj\Debug\netstandard2.0\Vote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay\source\repos\Vote\Vote\Vote\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nikolay\source\repos\Vote\Vote\Vote\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Nikolay\source\repos\Vote\Vote\Vote\obj\Debug\netstandard2.0\Vote.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Vote\Vote\Vote\obj\Debug\netstandard2.0\Vote.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Vote\Vote\Vote\obj\Debug\netstandard2.0\Vote.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Vote\Vote\Vote\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nikolay\source\repos\Vote\Vote\Vote\obj\Debug\netstandard2.0\Vote.dll
+C:\Users\Nikolay\source\repos\Vote\Vote\Vote\obj\Debug\netstandard2.0\ref\Vote.dll
+C:\Users\Nikolay\source\repos\Vote\Vote\Vote\obj\Debug\netstandard2.0\Vote.pdb
